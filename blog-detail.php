@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 
-  <!--------Link---------->
+  <!-- Link -->
   <link rel="shortcut icon" type="image/png" href="images/logo.png">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -109,19 +109,22 @@
             dans sa diversité</p>
 
           <ul class="list-detail py-3">
-            <li><span class="uc">Mission/ objectif :</span></li>
-            <p>L'AFEM a pour objectif de défendre le droit des femmes et des filles partout où le besoin se fait sentir
+            <li class="icon"><span class="uc">Mission/ objectif :</span></li>
+            <li>L'AFEM a pour objectif de défendre le droit des femmes et des filles partout où le besoin se fait sentir
               tant que les moyens financiers et humaines sont disponibles. Aussi de promouvoir la participation active
-              et responsable des communautés rurales dans le processus de leur développement.</p>
+              et responsable des communautés rurales dans le processus de leur développement.</li>
 
-            <li><span class="uc">Objet de programme :</span></li>
-            <p>Contribuer de façon participative au développement économique, social et culturel des femmes de toutes
-              les régions du Mali.</p>
+            <li class="icon"><span class="uc">Objet de programme :</span></li>
+            <li>Contribuer de façon participative au développement économique, social et culturel des femmes de toutes
+              les régions du Mali.</li>
 
-            <li><span class="uc">Groupes cibles :</span></li>
-            <p>1. Les groupements de femmes <br>
-              2. Les enfants (0 à 7 ans) adolescents (7 à 18 ans)<br>
-              3. Les Organisations paysannes de jeunes</p>
+            <li class="icon"><span class="uc">Groupes cibles :</span>
+            <ol>
+            <li>Les groupements de femmes</li>
+            <li>Les enfants (0 à 7 ans) adolescents (7 à 18 ans)</li>
+            <li>Les Organisations paysannes de jeunes</li>
+            </ol>
+             </li>
           </ul>
 
           <h2 class="mt-5 mb-3 text-success ts">Les instances de décision et les organes de gestion :</h2>
@@ -277,7 +280,7 @@
         </div>
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCq4OLLWoPb4LQjkqtPe-HxFdRpp64FDs" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe class="vid" src="https://www.youtube.com/embed/videoseries?list=PLCq4OLLWoPb4LQjkqtPe-HxFdRpp64FDs" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
         </div>
@@ -285,7 +288,7 @@
     </div>
   </section>
 
-<!--------FOOTER---------->
+<!-- FOOTER -->
   <footer class="site-footer">
     <div class="container">
       <div class="row">

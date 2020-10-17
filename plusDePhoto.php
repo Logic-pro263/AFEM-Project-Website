@@ -10,11 +10,11 @@
         <title>AFEM ASSOCIATION DES FEMMES ENTREPRENANTES DU MALI</title>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <meta name="description"content="L'ASSOCIATION DES FEMMES ENTREPRENANTES DU MALI, association féminine mise en place en 2007, reconnu légalement en 2012 dans le but de venir en aide aux femmes et filles des zones urbaines et rurales">
+        <meta name="description" content="L'ASSOCIATION DES FEMMES ENTREPRENANTES DU MALI, association féminine mise en place en 2007, reconnu légalement en 2012 dans le but de venir en aide aux femmes et filles des zones urbaines et rurales">
         <meta name="author" content="FYREFLY-SERVICES">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
        
-        <!--------Link---------->
+        <!-- Link -->
         <link rel="shortcut icon" type="image/png" href="images/logo.png">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -58,9 +58,6 @@
              </div>
         </div>
    </nav>
-   <section class="photo-projet1">
-        
-   </section>
    <section class="photo-projet2">
        <div class="container">
             <h1 class="text-center title1">Photos des différents projets</h1>
@@ -72,6 +69,8 @@
            <figure class="figure img1">
            <img src="images/project/project-detail/project-actu4.jpg" class="figure-img img-fluid rounded" alt="banderole">
                <figcaption class="figure-caption t-banderole">De gauche à droite : M. Jacques COULIBALY (Sous-préfet de Massigui) M. Brehima SIDIBE (1er Adjoint au Maire de Massigui), Mme Kadidiatou DOUMBIA (Présidente de l’AFEM), M. Diogo DOUMBIA (2e Adjoint au Maire). Sur le Projet Voix et Leadership des Femmes VLF Musoya sur financement de Affaires Mondiales Canada représenté par le consortium CECI-SOCODEVI
+               </figcaption>
+          </figure>
 
         <figure class="figure">
             <img src="images/banderole/banderole1.jpg" class="figure-img img-fluid rounded" alt="banderole">
@@ -87,12 +86,14 @@
 
         <figure class="figure">
           <img src="images/banderole/banderole2.jpg" class="figure-img img-fluid rounded" alt="banderole">
-          <figcaption class="figure-caption t-banderole">PISCCA (Projets innovants des sociétés civiles et coalitions d’acteurs) 2018 du Service de coopération et d’action culturelle de l’Ambassade de France.</figcaption>
+          <figcaption class="figure-caption t-banderole">Projets innovants des sociétés civiles et coalitions d'acteurs (PISCCA) 2018 du Service de coopération et d’action culturelle de l’Ambassade de France.
+          </figcaption>
       </figure>
 
       <figure class="figure">
         <img src="images/banderole/banderole3.jpg" class="figure-img img-fluid rounded" alt="banderole">
-        <figcaption class="figure-caption t-banderole">PISCCA (Projets innovants des sociétés civiles et coalitions d’acteurs) 2018 du Service de coopération et d’action culturelle de l’Ambassade de France.</figcaption>
+        <figcaption class="figure-caption t-banderole">Projets innovants des sociétés civiles et coalitions d'acteurs (PISCCA) 2018 du Service de coopération et d’action culturelle de l’Ambassade de France.
+        </figcaption>
         </figure>
 
         <figure class="figure img1">
@@ -100,16 +101,15 @@
                <figcaption class="figure-caption t-banderole">DE VOTRE DROITE VERS LA GAUCHE : Mme Kadidiatou DOUMBIA (Présidente de l’AFEM), M. Zakaria HAFFAR (Ambassade de France au Mali), M. Souleymane CAMARA (Coordinateur du projet).</figcaption>
            </figure>
 
-    <figure class="figure iimg1">
+          <figure class="figure iimg1">
            <img src="images/project/project-image04.JPG" class="figure-img img-fluid rounded" alt="banderole">
-               <figcaption class="figure-caption t-banderole">PISCCA (Projets innovants des sociétés civiles et coalitions d’acteurs) 2018 du Service de coopération et d’action culturelle de l’Ambassade de France.</figcaption>
+               <figcaption class="figure-caption t-banderole">Projets innovants des sociétés civiles et coalitions d'acteurs (PISCCA) 2018 du Service de coopération et d’action culturelle de l’Ambassade de France.</figcaption>
            </figure>
 
        </div>
    </section>
-   </head>
-<body>
 
+   <!-- Footer -->
     <footer class="site-footer">
         <div class="container">
              <div class="row">

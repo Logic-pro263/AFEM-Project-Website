@@ -419,13 +419,13 @@ Contact: +223 73 45 16 76 //
     position: relative;
   }
 
-  .list-detail li {
+  .list-detail .icon {
     display: block;
     list-style: none;
     margin: 0.6em 0 0 0.8em;
   }
 
-  .list-detail li::before {
+  .list-detail .icon::before {
     content: "";
     width: 0;
     height: 0;
@@ -550,6 +550,10 @@ Contact: +223 73 45 16 76 //
     background-color: var(--primary-color);
     border-radius: 10px;
     color: var(--project-bg);
+  }
+  .vid{
+    width: 560px;
+    height: 315px; 
   }
   .img1{
     text-align: center;
